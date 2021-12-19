@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "683d811a895ab0c73f3961780ce0a731",
+    "revision": "a6f731ae76619740c7e85dddd61583a8",
     "url": "./index.html"
   },
   {
-    "revision": "d322286b9b15593b849b",
+    "revision": "d73a70a32303b61eb4eb",
     "url": "./static/css/main.93f6acea.chunk.css"
   },
   {
-    "revision": "36442f2c27f88d88766b",
-    "url": "./static/js/2.ab4678db.chunk.js"
+    "revision": "cf199f905e979d6465bb",
+    "url": "./static/js/2.9bff9e3c.chunk.js"
   },
   {
-    "revision": "d322286b9b15593b849b",
-    "url": "./static/js/main.bbafcf66.chunk.js"
+    "revision": "d73a70a32303b61eb4eb",
+    "url": "./static/js/main.dbcf0b2d.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "cb1e69956a60a98a0c2c4b8a1223d09d",
-    "url": "./static/media/Profile Photo - Srijan.cb1e6995.png"
+    "revision": "9f797e40f608cbd30bca8bce6753898c",
+    "url": "./static/media/Profile Photo - Srijan.9f797e40.png"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "./static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "efd7b19114e4bbdcb7a3652010c81a2e",
+    "url": "./static/media/cfees.efd7b191.png"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
