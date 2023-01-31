@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.93f6acea.chunk.css",
-    "main.js": "./static/js/main.aa8aef50.chunk.js",
-    "main.js.map": "./static/js/main.aa8aef50.chunk.js.map",
+    "main.css": "./static/css/main.92940f38.chunk.css",
+    "main.js": "./static/js/main.82472e51.chunk.js",
+    "main.js.map": "./static/js/main.82472e51.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.9bff9e3c.chunk.js": "./static/js/2.9bff9e3c.chunk.js",
-    "static/js/2.9bff9e3c.chunk.js.map": "./static/js/2.9bff9e3c.chunk.js.map",
+    "static/js/2.9ad99a1a.chunk.js": "./static/js/2.9ad99a1a.chunk.js",
+    "static/js/2.9ad99a1a.chunk.js.map": "./static/js/2.9ad99a1a.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.4aa59ed12fa83ff3e49b933dfa20b669.js": "./precache-manifest.4aa59ed12fa83ff3e49b933dfa20b669.js",
+    "precache-manifest.8bdc38f95d8a58a4f45f749aa0b3d389.js": "./precache-manifest.8bdc38f95d8a58a4f45f749aa0b3d389.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.93f6acea.chunk.css.map": "./static/css/main.93f6acea.chunk.css.map",
+    "static/css/main.92940f38.chunk.css.map": "./static/css/main.92940f38.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ICCCN-Logo.jpeg": "./static/media/ICCCN-Logo.c718c575.jpeg",
     "static/media/ICCCN-Logo.png": "./static/media/ICCCN-Logo.fd5f89bd.png",
@@ -42,6 +42,8 @@
     "static/media/googleai.png": "./static/media/googleai.9a2b714a.png",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
     "static/media/ieee_logo.png": "./static/media/ieee_logo.1ee446e6.png",
+    "static/media/iiit.png": "./static/media/iiit.6a198a0c.png",
+    "static/media/iisc.jpg": "./static/media/iisc.996826f3.jpg",
     "static/media/iitb_logo.png": "./static/media/iitb_logo.ac51c653.png",
     "static/media/iitbhu_logo.png": "./static/media/iitbhu_logo.c24e6189.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
@@ -52,6 +54,8 @@
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
     "static/media/programmer.svg": "./static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "./static/media/projects_image.b8ba9487.svg",
+    "static/media/snackmagic.jpg": "./static/media/snackmagic.fc5bae62.jpg",
+    "static/media/st_louis.jpg": "./static/media/st_louis.97cc007a.jpg",
     "static/media/stanford_logo.png": "./static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
@@ -60,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.9bff9e3c.chunk.js",
-    "static/css/main.93f6acea.chunk.css",
-    "static/js/main.aa8aef50.chunk.js"
+    "static/js/2.9ad99a1a.chunk.js",
+    "static/css/main.92940f38.chunk.css",
+    "static/js/main.82472e51.chunk.js"
   ]
 }
